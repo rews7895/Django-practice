@@ -1,7 +1,0 @@
-[18/Nov/2020 22:59:26] DEBUG [polls.views:42] vote().question_id: 1
-[18/Nov/2020 22:59:52] DEBUG [polls.views:42] vote().question_id: 1
-[18/Nov/2020 22:59:59] DEBUG [polls.views:42] vote().question_id: 1
-[18/Nov/2020 23:00:05] DEBUG [polls.views:42] vote().question_id: 3
-[18/Nov/2020 23:00:14] DEBUG [polls.views:42] vote().question_id: 3
-[18/Nov/2020 23:00:16] DEBUG [polls.views:42] vote().question_id: 3
-[18/Nov/2020 23:00:23] DEBUG [polls.views:42] vote().question_id: 2
